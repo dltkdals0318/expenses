@@ -1,0 +1,186 @@
+ #container{
+    position: relative;
+    box-sizing: border-box;
+  }
+
+  #button{
+    font-family: 'AppleSDGothicNeo';
+    font-size: 30px;
+    background:none;
+    color:black;
+    border:none;
+    position: absolute;
+    top: 85px;
+    left: 303px;
+  }
+  
+  #button:hover{
+    color:rgb(28, 118, 209);
+    transition: 0.1s;
+  }
+  
+  @font-face {
+    font-family: 'AppleSDGothicNeo';
+    font-weight: 300;
+    src: url(AppleSDGothicNeoL.woff2) format("woff2");
+  }
+
+  .receipt1{
+    background-image: url('receipt1.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: calc(100vw - 17px);
+    margin:0;
+    padding: 0;
+    height: 100vh;
+  }
+ 
+  .receipt2{
+   background-image: url('receipt2.jpg');
+   background-size: cover;
+   background-repeat: no-repeat;
+   width: calc(100vw - 17px);
+   margin:0;
+   padding: 0;
+   height: 100vh;
+ }
+ 
+ .receipt3{
+   background-image: url('receipt3.jpg');
+   background-size: cover;
+   background-repeat: no-repeat;
+   width: calc(100vw - 17px);
+   margin:0;
+   padding: 0;
+   height: 100vh;
+ }
+ 
+ .receipt4{
+   background-image: url('receipt4.jpg');
+   background-size: cover;
+   background-repeat: no-repeat;
+   width: calc(100vw - 17px);
+   margin:0;
+   padding: 0;
+   height: 100vh;
+ }
+ 
+ .receipt5{
+   background-image: url('receipt5.jpg');
+   background-size: cover;
+   background-repeat: no-repeat;
+   width: calc(100vw - 17px);
+   margin:0;
+   padding: 0;
+   height: 100vh;
+ }
+ 
+ .receipt6{
+   background-image: url('receipt6.jpg');
+   background-size: cover;
+   background-repeat: no-repeat;
+   width: calc(100vw - 17px);
+   margin:0;
+   padding: 0;
+   height: 100vh;
+ }
+ 
+ .receipt7{
+   background-image: url('receipt7.jpg');
+   background-size: cover;
+   background-repeat: no-repeat;
+   width: calc(100vw - 17px);
+   margin:0;
+   padding: 0;
+   height: 100vh;
+ }
+ 
+ .receipt8{
+   background-image: url('receipt8.jpg');
+   background-size: cover;
+   background-repeat: no-repeat;
+   width: calc(100vw - 17px);
+   margin:0;
+   padding: 0;
+   height: 100vh;
+ }
+ 
+ .receipt9{
+   background-image: url('receipt9.jpg');
+   background-size: cover;
+   background-repeat: no-repeat;
+   width: calc(100vw - 17px);
+   margin:0;
+   padding: 0;
+   height: 100vh;
+ }
+ 
+ .receipt10{
+   background-image: url('receipt10.jpg');
+   background-size: cover;
+   background-repeat: no-repeat;
+   width: calc(100vw - 17px);
+   margin:0;
+   padding: 0;
+   height: 100vh;
+ }
+ 
+ .receipt11{
+   background-image: url('receipt11.jpg');
+   background-size: cover;
+   background-repeat: no-repeat;
+   width: calc(100vw - 17px);
+   margin:0;
+   padding: 0;
+   height: 100vh;
+ }
+ 
+ .receipt12{
+   background-image: url('receipt12.jpg');
+   background-size: cover;
+   background-repeat: no-repeat;
+   width: calc(100vw - 17px);
+   margin:0;
+   padding: 0;
+   height: 100vh;
+ }
+ 
+ .receipt13{
+  background-image: url('receipt13.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: calc(100vw - 17px);
+  margin:0;
+  padding: 0;
+  height: 100vh;
+}
+
+.receipt14{
+  background-image: url('receipt14.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: calc(100vw - 17px);
+  margin:0;
+  padding: 0;
+  height: 100vh;
+}
+
+.receipt15{
+  background-image: url('receipt15.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: calc(100vw - 17px);
+  margin:0;
+  padding: 0;
+  height: 100vh;
+}
+
+.receipt16{
+  background-image: url('receipt16.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: calc(100vw - 17px);
+  margin:0;
+  padding: 0;
+  height: 100vh;
+}
